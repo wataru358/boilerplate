@@ -1,0 +1,5 @@
+**/.next/**
+**/node_modules/**
+**/react-okta/**
+**/redux-promise-middleware.js
+*.mock.tsx

@@ -1,0 +1,61 @@
+{
+  "compilerOptions": {
+    "allowJs": false,
+    "allowSyntheticDefaultImports": true,
+    "baseUrl": ".",
+    "jsx": "preserve",
+    "lib": [
+      "dom",
+      "es2017"
+    ],
+    "module": "esnext",
+    "moduleResolution": "node",
+    "noEmit": true,
+    "paths": {
+      "*": [
+        "src/*",
+        "src/@types/*"
+      ],
+      "src/*": [
+        "./src/*"
+      ],
+      "tree/*": [
+        "./src/apps/tree/*"
+      ],
+      "redux/*": [
+        "./src/apps/redux/*"
+      ],
+      "config/*": [
+        "./src/config/*"
+      ],
+      "hookStore/*": [
+        "./src/apps/hookStore/*"
+      ],
+      "hookRouteStore/*": [
+        "./src/hookRouteStore/*"
+      ],
+      "shared/*": [
+        "src/apps/shared/*"
+      ]
+    },
+    "preserveConstEnums": true,
+    "removeComments": false,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "sourceMap": true,
+    "strict": true,
+    "target": "esnext",
+    "forceConsistentCasingInFileNames": true,
+    "esModuleInterop": true,
+    "isolatedModules": true
+  },
+  "include": [
+    "pages/**/*.ts",
+    "pages/**/*.tsx",
+    "src/**/*.ts",
+    "src/**/*.tsx"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
