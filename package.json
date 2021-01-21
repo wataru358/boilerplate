@@ -89,7 +89,7 @@
     "graphql-voyager": "^1.0.0-rc.28",
     "http-proxy-middleware": "^0.19.1",
     "humps": "^2.0.1",
-    "immer": "^3.3.0",
+    "immer": "^8.0.1",
     "invariant": "^2.2.4",
     "ldclient-js": "^2.10.2",
     "lodash": "^4.17.15",
