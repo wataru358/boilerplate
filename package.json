@@ -92,7 +92,7 @@
     "immer": "^3.3.0",
     "invariant": "^2.2.4",
     "ldclient-js": "^2.10.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "next": "^9.1.4",
     "next-compose-plugins": "^2.2.0",
     "next-images": "^1.2.0",
