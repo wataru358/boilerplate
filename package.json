@@ -98,7 +98,7 @@
     "next-images": "^1.2.0",
     "next-transpile-modules": "^2.3.1",
     "node-fetch": "^2.6.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "numeral": "^2.0.6",
     "papaparse": "^4.6.3",
     "query-string": "^4.3.4",
